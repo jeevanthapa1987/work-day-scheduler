@@ -28,7 +28,7 @@ Refresh the page, and your saved events will persist.
 
 ##Live Demo:
 You can access a live demo of the Work Day Scheduler here.
-
+https://jeevanthapa1987.github.io/work-day-scheduler/
 
 ##Contribution:
 Made by ❤️ [JEEVAN THAPA]
